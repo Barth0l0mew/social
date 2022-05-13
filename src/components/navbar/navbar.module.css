@@ -1,0 +1,16 @@
+.navbar{
+  background-color:blueviolet;
+  grid-area: navbar;
+}
+.menu{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.menu__item{
+  list-style: none;
+}
+.menu__link{
+  color: #030303;
+  text-decoration: none;
+}
