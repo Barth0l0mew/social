@@ -6,10 +6,12 @@ import Main from "../main/main";
 import Style from "./layout.module.css"
 const Layout=()=>{
   return (
-    <div className={Style.layout}>
+    <div className={`${Style.layout}`}>
       <Header></Header>
+      
       <Navbar></Navbar>
       <Main></Main> 
+      
     </div>
   )
 }

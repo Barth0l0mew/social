@@ -1,4 +1,5 @@
 .header{
   grid-area: header;
-  background-color: coral;
+  background-color: rgba(179, 194, 225,0.5);
+  padding: 10px;
 }

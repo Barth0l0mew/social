@@ -1,0 +1,22 @@
+.messages{
+  padding: 10px;
+  display: grid;
+  grid-template-columns: 2fr 10fr;
+}
+.dialog {
+  border-right: 1px solid #030303;
+  padding: 10px;
+  display:flex;
+  flex-direction: column;
+}
+.message{
+  padding: 10px;
+}
+.link{
+  text-decoration: none;
+  color: red;
+}
+.active {
+  color: blue;
+  text-decoration: none;
+}

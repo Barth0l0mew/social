@@ -1,0 +1,35 @@
+.userWrapper{
+  padding: 10px;
+
+}
+.userContainer{
+  display: flex;
+  /* justify-content: space-between; */
+  margin: 15px;
+  border: 1px solid #3f3f3f;
+  border-radius: 20px;
+  padding: 15px;
+}
+.userInfo{
+  font-family: 24px;
+  margin-left: 15px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.userPhoto{
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  outline: 1px solid black;
+}
+.userBtn{
+  width:100px;
+  height: 25px;
+  border-radius:25px;
+  border: none;
+  background-color: cadetblue;
+  display: block;
+  margin-top: 5px;
+}

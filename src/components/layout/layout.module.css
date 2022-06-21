@@ -4,5 +4,6 @@
   grid-template-columns: 2fr 10fr;
   grid-template-areas: 
   "header header"
-  "navbar main"
+  "navbar main";
+  grid-gap: 10px;
 }

@@ -1,6 +1,7 @@
 .navbar{
-  background-color:blueviolet;
+  background-color:rgba(179, 194, 225,0.5);
   grid-area: navbar;
+  padding: 10px;
 }
 .menu{
   margin: 0;
